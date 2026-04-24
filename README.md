@@ -24,6 +24,10 @@ Instead of giving teams another dashboard, CloudOps Copilot acts as an agentic S
 
 ---
 
+UI
+<img width="1024" height="876" alt="image" src="https://github.com/user-attachments/assets/fcd8bac7-2129-4150-93ce-f907f5c7f518" />
+
+
 ## 💻 Local Setup Instructions
 
 Follow these steps to run CloudOps Copilot from scratch on your local Windows machine.
@@ -67,7 +71,3 @@ Your browser will automatically open the UI at http://localhost:8501.
 /app - Contains the FastAPI backend, Agent logic, RAG setup, and Streamlit frontend.
 
 /sample-data - Mock AWS JSON logs, IAM policies, billing CSVs, and markdown runbooks used for the MVP.
-
-
-UI
-<img width="1024" height="876" alt="image" src="https://github.com/user-attachments/assets/fcd8bac7-2129-4150-93ce-f907f5c7f518" />
