@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-04-24T14:03:21Z",
+    "service": "api-service",
+    "level": "ERROR",
+    "message": "AccessDeniedException: User is not authorized to perform s3:GetObject on arn:aws:s3:::app-config-prod/config.json"
+  },
+  {
+    "timestamp": "2026-04-24T14:04:12Z",
+    "service": "api-service",
+    "level": "ERROR",
+    "message": "Health check failed: /health returned 500"
+  }
+]

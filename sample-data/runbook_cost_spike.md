@@ -1,0 +1,2 @@
+# Cost Spike Runbook
+If EC2 costs spike unexpectedly, check if autoscaling groups have scaled up due to failing health checks. An application failure can trigger a loop where unhealthy instances are killed and replaced, or maxed out attempting to serve failing requests. Ensure IAM policies allow instances to fetch their configuration files.
