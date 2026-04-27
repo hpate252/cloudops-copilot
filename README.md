@@ -34,7 +34,7 @@ Follow these steps to run CloudOps Copilot from scratch on your local Windows ma
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/cloudops-copilot.git](https://github.com/YOUR_GITHUB_USERNAME/cloudops-copilot.git)
+git clone https://github.com/hpate252/cloudops-copilot.git
 cd cloudops-copilot
 2. Set up a Python Virtual Environment
 PowerShell
